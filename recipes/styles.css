@@ -1,0 +1,20 @@
+.title {
+    font-size: 45px;
+    font-family: verdana, georgia, sans-serif;
+    color: red;
+}
+.title:hover {
+    color: honeydew;
+    background-color: red;
+}
+h2 {
+    color: green;
+}
+p, li {
+    font-size: 14px;
+    font-family: verdana, "Times New Roman", sans-serif;
+}
+img {
+    height: auto;
+    width: 500px;
+}
